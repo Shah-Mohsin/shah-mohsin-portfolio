@@ -1,0 +1,12 @@
+manifest_version = "0.1.0"
+
+[project]
+id = "shah-mohsin-portfolio"
+name = "shah-mohsin-portfolio"
+
+[workspace]
+include = ["src/**"]
+
+# This manifest has been hardened for hosted deployment.
+# Backend and frontend build steps are managed independently and no canister deployment is required.
+

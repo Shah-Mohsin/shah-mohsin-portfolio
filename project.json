@@ -1,0 +1,25 @@
+{
+  "overview": "A world-class personal portfolio for Mohammad Mohsin Shah — Full Stack Developer & UI/UX Designer from Shopian, Kashmir, India. Features a dark-themed, animation-rich, interactive showcase with hero section, skills display, project portfolio, testimonials, and contact form.",
+  "features": [
+    "Hero section with animated gradient and particle effects",
+    "Interactive skill cards with glassmorphism effects",
+    "Project showcase grid with hover animations",
+    "Animated stats counters (projects, experience, technologies)",
+    "Testimonials carousel with auto-rotate",
+    "Contact form with validation and success/error feedback",
+    "Dark/light mode toggle",
+    "Smooth scroll animations with Motion library",
+    "Fully responsive design for all devices",
+    "Custom scrollbar and micro-interactions"
+  ],
+  "category": "portfolio",
+  "tags": [
+    "portfolio",
+    "developer",
+    "fullstack",
+    "ui-ux",
+    "dark-theme",
+    "animated"
+  ],
+  "last_updated": "2026-04-19T17:43:25.480Z"
+}
